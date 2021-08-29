@@ -28,7 +28,7 @@ async function connectExcel() {
             });
     });
 
-    console.log('connectToExcel');
+    console.log('connect To Excel - Success');
 }
 
 function checkConnectionStatus() {
